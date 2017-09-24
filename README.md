@@ -10,9 +10,7 @@ Finally, you’ll do all of this so that it can be tested.
 
 ### Your Task
 
-In our class repository, there is a folder resources/session01.
-
-Inside that folder, you should find:
+In this repository you will find:
 
 * A file tasks.txt that contains these instructions
 * A skeleton for your server in echo_server.py
